@@ -2,5 +2,5 @@
 
 ### What does it do?
 * Delete messages via discord API so no self botting is used
-*Features:
+* Features:
      Import JSON, Author ID Screenshot Mode, Author ID, Channel ID, Guild ID, Delays, Filtering Messages, Message ID, User ID...
