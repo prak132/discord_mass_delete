@@ -1,9 +1,3 @@
-// inspired and also almost all of the code is from undiscord by victornpb, use for replit and vs code only
-// I make no profit from this so if you like the code please donate money to the creator, his github is: https://github.com/victornpb/undiscord
-// donate to him at https://ko-fi.com/victornpb/ 
-// also at https://www.buymeacoffee.com/vitim
-// made by prak :) I have never coded in js lmao so this will be very funny bro
-
 import os from 'os';
 
 const authToken = process.env.token // TOKEN DO NOT SHARE
@@ -22,7 +16,6 @@ const pattern = process.env.pattern // tbh idk what this does lmao
 const searchDelay = process.env.searchDelay // delay timer recommended is 100
 const deleteDelay = process.env.deleteDelay // delay timer recommended is 1000
 const onProgress = process.env.onProgress // uhhh I forgot what this does 
-// yooo btw idk what I am doing again
 (function () {
     'use strict';
  
